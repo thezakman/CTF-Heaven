@@ -1,0 +1,30 @@
+#Wifi Cheat Sheet - aircrack-ng
+# michael <truckiewow>
+#Jose Moruno Cadima  <sniferl4bs>
+
+#Start Monitor Mode and Save captures
+iw dev wlan0 add interface mon0 type monitor
+airmon-ng start wlan0 <Chanel>
+airodump-ng -c <Chanel> --bssid <MAC AP> -w <NameCapture> <InterfaceMonitor>
+
+
+# To crack WEP for a given essid name and store into a file
+aircrack-ng -a 1 -e <essid> -l <output file> <.cap or .ivs file(s)>
+
+# To crack WPA/WPA2 from airolib-ng database
+aircrack-ng -e <essid> -r <database> <.cap or .ivs file(s)>
+
+# To crack WPA/WPA2 from a wordlist
+aircrack-ng -e <essid> -w <wordlist> <.cap or .ivs file(s)>
+
+# To crack a given bssid
+aircrack-ng -b <bssid> -l <output file> <.cap or .ivs file(s)>
+
+# To crack a given bssid using FMS/Korek method
+aircrack-ng -K -b <bssid> <.cap or .ivs file(s)>
+
+# To crack a given essid (WEP) and display the ASCII of the key
+aircrack-ng -e <essid> -s <.cap of .ivs file(s)>
+
+# To crack a given essid (WEP) and create a EWSA Project
+aircrack-ng -e <essid> -E <EWSA file> <.cap or .ivs file(s)>
