@@ -1,4 +1,8 @@
-Welcome to the world of CTFs
+![Version 0.04](https://img.shields.io/badge/Version-0.04-green.svg)
+[![Twitter](https://img.shields.io/badge/Twitter-%40TheZakMan-blue.svg)](https://www.twitter.com/thezakman)
+
+
+Welcome to the world of CTFs 🏴‍☠️
 ===============
 
 > TheZakMan  |  January 24st, 2019 | Credits: [John Hammond](https://github.com/JohnHammond/ctf-katana) and  [Aaron Lewis](https://github.com/CaledoniaProject/awesome-opensource-security).
@@ -7,9 +11,9 @@ Welcome to the world of CTFs
 --------------------------
 
 
-This is a introduction to some of the basics of each category subject, enjoy the ride.
+This is an introduction to some of the basics of each category. It was designed to help beginners and old comrades, enjoy the ride and "HackThePlanet".
 
-
+[![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
 ---------------
 
 
@@ -900,4 +904,19 @@ A list of interesting things I can use one day or have already used in the past.
 * [1337list/ephemera-miscellany/hackertalkytalk.md - List of Helpful Information Security Multimedia](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md)
 * [offensive-security/exploitdb-papers - Exploit Database's Papers](https://github.com/offensive-security/exploitdb-papers)
 * [trimstray/the-book-of-secret-knowledge - A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+
+
+
+
+
+
+
+-------------------------
+
+![img/dna_codes.png](https://ctf-br.org/wp-content/uploads/2014/12/icon_256x2561.png)
+
+[Join the comminity](https://ctf-br.org/)
+
+<b>Feel free to fork/star and help it get better :thumbsup: <b>
 
