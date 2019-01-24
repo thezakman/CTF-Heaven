@@ -16,9 +16,7 @@ This is an introduction to some of the basics of each category. It was designed 
 [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
 ---------------
 
-[Se
-
-curity Cheatsheets](https://github.com/thezakman/CTF-Heaven/tree/master/Cheatsheets)
+[Security Cheatsheets](https://github.com/thezakman/CTF-Heaven/tree/master/Cheatsheets)
 -----------------------
 The purpose of these cheatsheets are to aid penetration testers/CTF participants/security enthusiasts in remembering commands that are useful, but not frequently used.
 
