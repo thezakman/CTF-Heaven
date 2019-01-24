@@ -1,3 +1,7 @@
+![Version .04](https://img.shields.io/badge/Version-1.13-green.svg)
+[![Twitter](https://img.shields.io/badge/Twitter-%40d35m0nd142-blue.svg)](https://www.twitter.com/thezakman)
+
+
 Welcome to the world of CTFs 🏴‍☠️
 ===============
 
@@ -909,5 +913,5 @@ A list of interesting things I can use one day or have already used in the past.
 
 
 
-## Feel free to fork it and help this get better :thumbsup:
+<b> Feel free to fork it and help this get better :thumbsup: <b>
 
