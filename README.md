@@ -1,5 +1,5 @@
-![Version .04](https://img.shields.io/badge/Version-1.13-green.svg)
-[![Twitter](https://img.shields.io/badge/Twitter-%40d35m0nd142-blue.svg)](https://www.twitter.com/thezakman)
+![Version 0.04](https://img.shields.io/badge/Version-0.04-green.svg)
+[![Twitter](https://img.shields.io/badge/Twitter-%40TheZakMan-blue.svg)](https://www.twitter.com/thezakman)
 
 
 Welcome to the world of CTFs 🏴‍☠️
