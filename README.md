@@ -1,8 +1,8 @@
 Welcome to the world of CTFs
 ===============
 
-> TheZakMan | January 24st, 2019
-> Credits: [John Hammond](https://github.com/JohnHammond/ctf-katana) and  [Aaron Lewis](https://github.com/CaledoniaProject/awesome-opensource-security).
+> TheZakMan  |  January 24st, 2019
+-- Credits: [John Hammond](https://github.com/JohnHammond/ctf-katana) and  [Aaron Lewis](https://github.com/CaledoniaProject/awesome-opensource-security).
 
 --------------------------
 
