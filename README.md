@@ -912,6 +912,7 @@ A list of interesting things I can use one day or have already used in the past.
 
 
 
-
+-------------------------
+![](https://img.shields.io/github/forks/badges/shields.svg?label=Fork&style=social)
 <b> Feel free to fork it and help this get better :thumbsup: <b>
 
