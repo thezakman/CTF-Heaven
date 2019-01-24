@@ -1,2 +1,2 @@
-# a-full-list-of-wordlists
+# Wordlists of all kind
 this contain the burp pack
