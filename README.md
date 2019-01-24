@@ -2,7 +2,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40TheZakMan-blue.svg)](https://www.twitter.com/thezakman)
 
 
-Welcome to the world of CTFs ?????
+Welcome to the world of CTFs 🏴‍☠️
 ===============
 
 > TheZakMan  |  January 24st, 2019 | Credits: [John Hammond](https://github.com/JohnHammond/ctf-katana) and  [Aaron Lewis](https://github.com/CaledoniaProject/awesome-opensource-security).
