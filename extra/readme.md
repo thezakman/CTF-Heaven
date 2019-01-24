@@ -1,6 +1,8 @@
-# Open source tools
+---------------------------
+# Extra Readings and Tools
+---------------------------
 
-A list of interesting stuffs that I have no time to test/review.
+A list of interesting things I can use one day or have already used in the past.
 
 * [android-tools](android-tools.md)
 * [code-audit](code-audit.md)
