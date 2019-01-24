@@ -7,9 +7,9 @@ Welcome to the world of CTFs
 --------------------------
 
 
-This is a introduction to some of the basics of each category subject, enjoy the ride.
+This is an introduction to some of the basics of each category. It was designed to help beginners and old comrades, enjoy the ride and "HackThePlanet".
 
-
+[![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
 ---------------
 
 
