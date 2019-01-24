@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+   <!-- Export of tamperdata transacions -->
+   <tdRequests>
+<tdRequest uri="http%3A//domobank.com/gdbrecarregar/index.php"><tdStartTime>21:58:43.503</tdStartTime>
+<tdStartTimeMS>1486079923503</tdStartTimeMS>
+<tdElapsedTime>198</tdElapsedTime>
+<tdTotalElapsedTime>240</tdTotalElapsedTime>
+<tdStatus>200</tdStatus>
+<tdStatusText>OK</tdStatusText><tdRequestMethod>POST</tdRequestMethod>
+<tdContentSize>0</tdContentSize>
+<tdMimeType>text/html</tdMimeType>
+<tdRequestHeaders>
+<tdRequestHeader name="Host">
+domobank.com</tdRequestHeader>
+<tdRequestHeader name="User-Agent">
+Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20WOW64%3B%20rv%3A51.0%29%20Gecko/20100101%20Firefox/51.0</tdRequestHeader>
+<tdRequestHeader name="Accept">
+text/html%2Capplication/xhtml+xml%2Capplication/xml%3Bq%3D0.9%2C*/*%3Bq%3D0.8</tdRequestHeader>
+<tdRequestHeader name="Accept-Language">
+pt-BR%2Cpt%3Bq%3D0.8%2Cen-US%3Bq%3D0.5%2Cen%3Bq%3D0.3</tdRequestHeader>
+<tdRequestHeader name="Accept-Encoding">
+gzip%2C%20deflate</tdRequestHeader>
+<tdRequestHeader name="DNT">
+1</tdRequestHeader>
+<tdRequestHeader name="Connection">
+keep-alive</tdRequestHeader>
+<tdRequestHeader name="Upgrade-Insecure-Requests">
+1</tdRequestHeader>
+</tdRequestHeaders><tdPostHeaders><tdPostHeader name="Content-Type">
+application/x-www-form-urlencoded
+</tdPostHeader>
+<tdPostHeader name="Content-Length">
+513
+</tdPostHeader>
+</tdPostHeaders>
+<tdPostElements>
+<tdPostElement name="-----------------------------7487295432709Content-Disposition%3A%20form-data%3B%20name">
+%22contas_login%22%27-----------------------------7487295432709Content-Disposition%3A%20form-data%3B%20name%3D%22contas_senha%22%27-----------------------------7487295432709Content-Disposition%3A%20form-data%3B%20name%3D%22imageField.x%2240-----------------------------7487295432709Content-Disposition%3A%20form-data%3B%20name%3D%22imageField.y%2210-----------------------------7487295432709Content-Disposition%3A%20form-data%3B%20name%3D%22acao%22entrar-----------------------------7487295432709--
+</tdPostElement>
+</tdPostElements>
+<tdResponseHeaders><tdResponseHeader name="Date">
+Thu%2C%2002%20Feb%202017%2023%3A58%3A43%20GMT
+</tdResponseHeader>
+<tdResponseHeader name="Server">
+Apache
+</tdResponseHeader>
+<tdResponseHeader name="Content-Length">
+0
+</tdResponseHeader>
+<tdResponseHeader name="Connection">
+close
+</tdResponseHeader>
+<tdResponseHeader name="Content-Type">
+text/html
+</tdResponseHeader>
+</tdResponseHeaders>
+</tdRequest>
+</tdRequests>

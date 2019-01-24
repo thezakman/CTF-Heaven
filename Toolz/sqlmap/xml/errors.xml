@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <!-- MySQL -->
+    <dbms value="MySQL">
+        <error regexp="SQL syntax.*?MySQL"/>
+        <error regexp="Warning.*?\Wmysqli?_"/>
+        <error regexp="MySQLSyntaxErrorException"/>
+        <error regexp="valid MySQL result"/>
+        <error regexp="check the manual that corresponds to your (MySQL|MariaDB) server version"/>
+        <error regexp="Unknown column '[^ ]+' in 'field list'"/>
+        <error regexp="MySqlClient\."/>
+        <error regexp="com\.mysql\.jdbc"/>
+        <error regexp="Zend_Db_(Adapter|Statement)_Mysqli_Exception"/>
+        <error regexp="Pdo[./_\\]Mysql"/>
+        <error regexp="MySqlException"/>
+    </dbms>
+
+    <!-- PostgreSQL -->
+    <dbms value="PostgreSQL">
+        <error regexp="PostgreSQL.*?ERROR"/>
+        <error regexp="Warning.*?\Wpg_"/>
+        <error regexp="valid PostgreSQL result"/>
+        <error regexp="Npgsql\."/>
+        <error regexp="PG::SyntaxError:"/>
+        <error regexp="org\.postgresql\.util\.PSQLException"/>
+        <error regexp="ERROR:\s\ssyntax error at or near"/>
+        <error regexp="ERROR: parser: parse error at or near"/>
+        <error regexp="PostgreSQL query failed"/>
+        <error regexp="org\.postgresql\.jdbc"/>
+        <error regexp="Pdo[./_\\]Pgsql"/>
+        <error regexp="PSQLException"/>
+    </dbms>
+
+    <!-- Microsoft SQL Server -->
+    <dbms value="Microsoft SQL Server">
+        <error regexp="Driver.*? SQL[\-\_\ ]*Server"/>
+        <error regexp="OLE DB.*? SQL Server"/>
+        <error regexp="\bSQL Server[^&lt;&quot;]+Driver"/>
+        <error regexp="Warning.*?\W(mssql|sqlsrv)_"/>
+        <error regexp="\bSQL Server[^&lt;&quot;]+[0-9a-fA-F]{8}"/>
+        <error regexp="System\.Data\.SqlClient\.SqlException"/>
+        <error regexp="(?s)Exception.*?\bRoadhouse\.Cms\."/>
+        <error regexp="Microsoft SQL Native Client error '[0-9a-fA-F]{8}"/>
+        <error regexp="\[SQL Server\]"/>
+        <error regexp="ODBC SQL Server Driver"/>
+        <error regexp="ODBC Driver \d+ for SQL Server"/>
+        <error regexp="SQLServer JDBC Driver"/>
+        <error regexp="com\.jnetdirect\.jsql"/>
+        <error regexp="macromedia\.jdbc\.sqlserver"/>
+        <error regexp="Zend_Db_(Adapter|Statement)_Sqlsrv_Exception"/>
+        <error regexp="com\.microsoft\.sqlserver\.jdbc"/>
+        <error regexp="Pdo[./_\\](Mssql|SqlSrv)"/>
+        <error regexp="SQL(Srv|Server)Exception"/>
+    </dbms>
+
+    <!-- Microsoft Access -->
+    <dbms value="Microsoft Access">
+        <error regexp="Microsoft Access (\d+ )?Driver"/>
+        <error regexp="JET Database Engine"/>
+        <error regexp="Access Database Engine"/>
+        <error regexp="ODBC Microsoft Access"/>
+        <error regexp="Syntax error \(missing operator\) in query expression"/>
+    </dbms>
+
+    <!-- Oracle -->
+    <dbms value="Oracle">
+        <error regexp="\bORA-\d{5}"/>
+        <error regexp="Oracle error"/>
+        <error regexp="Oracle.*?Driver"/>
+        <error regexp="Warning.*?\W(oci|ora)_"/>
+        <error regexp="quoted string not properly terminated"/>
+        <error regexp="SQL command not properly ended"/>
+        <error regexp="macromedia\.jdbc\.oracle"/>
+        <error regexp="oracle\.jdbc"/>
+        <error regexp="Zend_Db_(Adapter|Statement)_Oracle_Exception"/>
+        <error regexp="Pdo[./_\\](Oracle|OCI)"/>
+        <error regexp="OracleException"/>
+    </dbms>
+
+    <!-- IBM DB2 -->
+    <dbms value="IBM DB2">
+        <error regexp="CLI Driver.*?DB2"/>
+        <error regexp="DB2 SQL error"/>
+        <error regexp="\bdb2_\w+\("/>
+        <error regexp="SQLSTATE.+SQLCODE"/>
+        <error regexp="com\.ibm\.db2\.jcc"/>
+        <error regexp="Zend_Db_(Adapter|Statement)_Db2_Exception"/>
+        <error regexp="Pdo[./_\\]Ibm"/>
+        <error regexp="DB2Exception"/>
+    </dbms>
+
+    <!-- Informix -->
+    <dbms value="Informix">
+        <error regexp="Warning.*?\Wifx_"/>
+        <error regexp="Exception.*?Informix"/>
+        <error regexp="Informix ODBC Driver"/>
+        <error regexp="ODBC Informix driver"/>
+        <error regexp="com\.informix\.jdbc"/>
+        <error regexp="weblogic\.jdbc\.informix"/>
+        <error regexp="Pdo[./_\\]Informix"/>
+        <error regexp="IfxException"/>
+    </dbms>
+
+    <!-- Interbase/Firebird -->
+    <dbms value="Firebird">
+        <error regexp="Dynamic SQL Error"/>
+        <error regexp="Warning.*?\Wibase_"/>
+        <error regexp="org\.firebirdsql\.jdbc"/>
+        <error regexp="Pdo[./_\\]Firebird"/>
+    </dbms>
+
+    <!-- SQLite -->
+    <dbms value="SQLite">
+        <error regexp="SQLite/JDBCDriver"/>
+        <error regexp="SQLite\.Exception"/>
+        <error regexp="(Microsoft|System)\.Data\.SQLite\.SQLiteException"/>
+        <error regexp="Warning.*?\W(sqlite_|SQLite3::)"/>
+        <error regexp="\[SQLITE_ERROR\]"/>
+        <error regexp="SQLite error \d+:"/>
+        <error regexp="sqlite3.OperationalError:"/>
+        <error regexp="SQLite3::SQLException"/>
+        <error regexp="org\.sqlite\.JDBC"/>
+        <error regexp="Pdo[./_\\]Sqlite"/>
+        <error regexp="SQLiteException"/>
+    </dbms>
+
+    <!-- SAP MaxDB -->
+    <dbms value="SAP MaxDB">
+        <error regexp="SQL error.*?POS([0-9]+)"/>
+        <error regexp="Warning.*?\Wmaxdb_"/>
+        <error regexp="DriverSapDB"/>
+        <error regexp="com\.sap\.dbtech\.jdbc"/>
+    </dbms>
+
+    <!-- Sybase -->
+    <dbms value="Sybase">
+        <error regexp="Warning.*?\Wsybase_"/>
+        <error regexp="Sybase message"/>
+        <error regexp="Sybase.*?Server message"/>
+        <error regexp="SybSQLException"/>
+        <error regexp="Sybase\.Data\.AseClient"/>
+        <error regexp="com\.sybase\.jdbc"/>
+    </dbms>
+
+    <!-- Ingres -->
+    <dbms value="Ingres">
+        <error regexp="Warning.*?\Wingres_"/>
+        <error regexp="Ingres SQLSTATE"/>
+        <error regexp="Ingres\W.*?Driver"/>
+        <error regexp="com\.ingres\.gcf\.jdbc"/>
+    </dbms>
+
+    <!-- Frontbase -->
+    <dbms value="Frontbase">
+        <error regexp="Exception (condition )?\d+\. Transaction rollback"/>
+        <error regexp="com\.frontbase\.jdbc"/>
+    </dbms>
+
+    <!-- HSQLDB -->
+    <dbms value="HSQLDB">
+        <error regexp="Unexpected end of command in statement \["/>
+        <error regexp="Unexpected token.*?in statement \["/>
+        <error regexp="org\.hsqldb\.jdbc"/>
+    </dbms>
+
+    <!-- H2 -->
+    <dbms value="H2">
+        <error regexp="org\.h2\.jdbc"/>
+    </dbms>
+</root>
