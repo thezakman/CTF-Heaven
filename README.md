@@ -901,3 +901,13 @@ A list of interesting things I can use one day or have already used in the past.
 * [offensive-security/exploitdb-papers - Exploit Database's Papers](https://github.com/offensive-security/exploitdb-papers)
 * [trimstray/the-book-of-secret-knowledge - A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers](https://github.com/trimstray/the-book-of-secret-knowledge)
 
+
+
+
+
+
+
+
+
+## Feel free to fork it and help this get better :thumbsup:
+
