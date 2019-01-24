@@ -21,6 +21,12 @@ This is an introduction to some of the basics of each category. It was designed 
 The purpose of these cheatsheets are to aid penetration testers/CTF participants/security enthusiasts in remembering commands that are useful, but not frequently used.
 
 
+[Wordlists](https://github.com/thezakman/CTF-Heaven/tree/master/Wordlists)
+-----------------------
+Wordlists of all kind
+
+
+
 
 Esoteric Languages
 -----------------------
