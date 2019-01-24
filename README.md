@@ -2,7 +2,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40TheZakMan-blue.svg)](https://www.twitter.com/thezakman)
 
 
-Welcome to the world of CTFs 🏴‍☠️
+Welcome to the world of CTFs ?????
 ===============
 
 > TheZakMan  |  January 24st, 2019 | Credits: [John Hammond](https://github.com/JohnHammond/ctf-katana) and  [Aaron Lewis](https://github.com/CaledoniaProject/awesome-opensource-security).
@@ -721,7 +721,7 @@ l(DId<j@<?3r@:F%a+D58'ATD4$Bl@l3De:,-DJs`8ARoFb/0JMK@qB4^F!,R<AKZ&-DfTqBG%G
 	Unicode characters encoding. Includes a lot of seemingly random spaces and chinese characters!
 
 ```
-𤇃𢊻𤄻嶜𤄋𤇁𡊻𤄛𤆬𠲻𤆻𠆜𢮻𤆻ꊌ𢪻𤆻邌𤆻𤊻𤅋𤲥𣾻𤄋𥆸𣊻𤅛ꊌ𤆻𤆱炼綻𤋅𤅴薹𣪻𣊻𣽻𤇆𤚢𣺻赈𤇣綹𤻈𤇣𤾺𤇃悺𢦻𤂻𤅠㢹𣾻𤄛𤆓𤦹𤊻𤄰炜傼𤞻𢊻𣲻𣺻ꉌ邹𡊻𣹫𤅋𤇅𣾻𤇄𓎜𠚻𤊻𢊻𤉛𤅫𤂑𤃃𡉌𤵛𣹛𤁐𢉋𡉻𡡫𤇠𠞗𤇡𡊄𡒌𣼻燉𣼋𦄘炸邹㢸𠞻𠦻𡊻𣈻𡈻𣈛𡈛ꊺ𠆼𤂅𣻆𣫃𤮺𤊻𡉋㽻𣺬𣈛𡈋𤭻𤂲𣈻𤭻𤊼𢈛儛𡈛ᔺ
+?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 ```
 
 * [Base41](https://github.com/sveljko/base41/blob/master/python/base41.py) 
@@ -862,45 +862,48 @@ sudo apt install -y caca-utils
 A list of interesting things I can use one day or have already used in the past.
 
 * [android-tools](extra/android-tools.md)
+* [blockchain-tools](extra/blockchain-tools.md)
+* [blogs](extra/blogs.md)
+* [car-tools](extra/car-tools.md)
+* [cloud-tools](extra/cloud-tools.md)
+* [cobalt-strike-addons](extra/cobalt-strike-addons.md)
 * [code-audit](extra/code-audit.md)
+* [ctf-tools](extra/ctf-tools.md)
+* [database-tools](extra/database-tools.md)
+* [docker-tools](extra/docker-tools.md)
+* [exploit-development.md](extra/exploit-development.md)
+* [exploit-latest](extra/exploit-latest.md)
 * [forensics-tools](extra/forensics-tools.md)
 * [fuzzing-tools](extra/fuzzing-tools.md)
+* [hail-mary-attack](extra/hail-mary-attack.md)
 * [hardening](extra/hardening.md)
+* [hardware-tools](extra/hardware-tools.md)
+* [honeypot](extra/honeypot.md)
 * [ios-tools](extra/ios-tools.md)
+* [iot-tools](extra/iot-tools.md)
+* [machine-learning](extra/machine-learning.md)
+* [macos-tools](extra/macos-tools.md)
+* [malware-analysis](extra/malware-analysis.md)
+* [malware-development](extra/malware-development.md)
+* [masscan](extra/masscan.md)
+* [nmap](extra/nmap.md)
+* [office-tools](extra/office-tools.md)
 * [password-tool](extra/password-tool.md)
 * [payloads](extra/payloads.md)
 * [pentest-tools](extra/pentest-tools.md)
 * [powershell-tools](extra/powershell-tools.md)
 * [re-tools](extra/re-tools.md)
-* [shellcode-tools](extra/shellcode-tools.md)
-* [wireless-tools](extra/wireless-tools.md)
-* [sdr-tools](extra/sdr-tools.md)
-* [threat-detection](extra/threat-detection.md)
-* [malware-analysis](extra/malware-analysis.md)
-* [cobalt-strike-addons](extra/cobalt-strike-addons.md)
-* [ctf-tools](extra/ctf-tools.md)
-* [honeypot](extra/honeypot.md)
-* [docker-tools](extra/docker-tools.md)
-* [macos-tools](extra/macos-tools.md)
-* [database-tools](extra/database-tools.md)
-* [hardware-tools](extra/hardware-tools.md)
 * [router-tools](extra/router-tools.md)
-* [blogs](extra/blogs.md)
-* [machine-learning](extra/machine-learning.md)
-* [blockchain-tools](extra/blockchain-tools.md)
-* [cloud-tools](extra/cloud-tools.md)
-* [iot-tools](extra/iot-tools.md)
-* [malware-development](extra/malware-development.md)
-* [car-tools](extra/car-tools.md)
-* [office-tools](extra/office-tools.md)
+* [sdr-tools](extra/sdr-tools.md)
+* [shellcode-tools](extra/shellcode-tools.md)
 * [software-development](extra/software-development.md)
-* [exploit-latest](extra/exploit-latest.md)
-* [exploit-development.md](extra/exploit-development.md)
+* [threat-detection](extra/threat-detection.md)
+* [wireless-tools](extra/wireless-tools.md)
 
 ## 3rdpart lists
 
-* [DropsOfZut/awesome-security-weixin-official-accounts - 网络安全类公众号推荐，欢迎大家推荐](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)
-* [tom0li/collection-document - 优质安全文章，长期更新](https://github.com/tom0li/collection-document)
+* [DropsOfZut/awesome-security-weixin-official-accounts - ??????????,??????](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)
+* [tom0li/collection-document - ??????,????](https://github.com/tom0li/collection-document)
 * [1337list/ephemera-miscellany/hackertalkytalk.md - List of Helpful Information Security Multimedia](https://github.com/1337list/ephemera-miscellany/blob/master/hackertalkytalk.md)
 * [offensive-security/exploitdb-papers - Exploit Database's Papers](https://github.com/offensive-security/exploitdb-papers)
 * [trimstray/the-book-of-secret-knowledge - A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers](https://github.com/trimstray/the-book-of-secret-knowledge)
