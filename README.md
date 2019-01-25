@@ -82,6 +82,8 @@ Esoteric Languages
 
 ![https://www.bertnase.de/npiet/hi.png](https://www.bertnase.de/npiet/hi.png)
 
+[Online interpreter](https://www.bertnase.de/npiet/npiet-execute.php)
+
 * [Ook!](http://esolangs.org/wiki/ook!)
 
 	A joke language. Recognizable by `.` and `?`, and `!`.
