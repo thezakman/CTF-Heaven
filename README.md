@@ -925,6 +925,7 @@ A list of interesting things I can use one day or have already used in the past.
 * [payloads](extra/payloads.md)
 * [pentest-tools](extra/pentest-tools.md)
 * [powershell-tools](extra/powershell-tools.md)
+* [pwn-tips](extra/pwn-tips.md)
 * [re-tools](extra/re-tools.md)
 * [router-tools](extra/router-tools.md)
 * [sdr-tools](extra/sdr-tools.md)
