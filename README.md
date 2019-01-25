@@ -1,6 +1,22 @@
 ![Version 0.04](https://img.shields.io/badge/Version-0.04-green.svg)
 [![Twitter](https://img.shields.io/badge/Twitter-%40TheZakMan-blue.svg)](https://www.twitter.com/thezakman)
 
+<!-- 
+
+        .'\   /`.
+         .'.-.`-'.-.`.
+    ..._:   .-. .-.   :_...
+  .'    '-.(o ) (o ).-'    `.
+ :  _    _ _`~(_)~`_ _    _  :
+:  /:   ' .-=_   _=-. `   ;\  :
+:   :|-.._  '     `  _..-|:   :         CTF-BR{Flag_in_comments_are_classic}
+ :   `:| |`:-:-.-:-:'| |:'   :
+  `.   `.| | | | | | |.'   .'
+    `.   `-:_| | |_:-'   .'
+      `-._   ````    _.-'
+          ``-------''
+	  
+-->
 
 Welcome to the world of CTFs 🏴‍☠️
 ===============
