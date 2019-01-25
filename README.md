@@ -42,6 +42,9 @@ The purpose of these cheatsheets are to aid penetration testers/CTF participants
 Wordlists of all kind
 
 
+[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+-----------------------
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 
 Esoteric Languages
