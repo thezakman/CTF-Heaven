@@ -10,9 +10,13 @@
 
 --sql-query="select now();"
 
---method GET --dump -D level5 -T photos -p id --code 200 --skip-waf --random-agent --threads 10 -o
+--method GET --code 200 
+
+--skip-waf --random-agent -o
 
 --file-read=/etc/passwd --threads=10
+
+--file-read="/etc/init.d/apache/httpd.conf"
 
 -b === Banner
 
