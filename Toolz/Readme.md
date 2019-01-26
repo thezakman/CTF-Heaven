@@ -1,7 +1,7 @@
 # CTF-Tools<br>
-This is the first version of useful CTF tools cheat sheets. I'm planning to update them with new useful tools.<br>
-Thanks to share for a good advice to add the links for tools. Here are the links to the tools from cheat sheets:<br>
+A collection of useful CTF tools cheatsheets. I'm planning to update them with new useful tools.<br>
 ![alt tag](https://github.com/MrMugiwara/CTF-Tools/blob/master/ctf.jpeg)
+
 # Reverse Engineering:<br>
 GDB - http://www.gnu.org/software/gdb/download/<br>
 IDA Pro - https://www.hex-rays.com/products/ida/support/download.shtml<br>
