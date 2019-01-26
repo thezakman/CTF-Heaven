@@ -72,9 +72,11 @@ hashpump - https://github.com/bwall/HashPump<br>
 Sage - http://www.sagemath.org/<br>
 John the Ripper - http://www.openwall.com/john/<br>
 xortool - https://github.com/hellman/xortool<br>
+
 # Online tools:<br>
 http://www.crypo.com/<br>
 http://www.cryptool-online.org/<br>
 http://rumkin.com/tools/cipher/<br>
+Branah (b64,hex,dec,bin) - https://www.branah.com/ascii-converter
 Modules for python - pycrypto - https://www.dlitz.net/software/pycrypto/<br>
 
