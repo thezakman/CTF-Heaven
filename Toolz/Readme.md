@@ -77,4 +77,4 @@ http://www.crypo.com/<br>
 http://www.cryptool-online.org/<br>
 http://rumkin.com/tools/cipher/<br>
 Modules for python - pycrypto - https://www.dlitz.net/software/pycrypto/<br>
-# Made With ♥ for Moroccan CTF Community
+
