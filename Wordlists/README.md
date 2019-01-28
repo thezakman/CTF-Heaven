@@ -1,2 +1,3 @@
 # Wordlists of all kind
-this contain the burp pack
+
+* [SecLists Github](https://github.com/danielmiessler/SecLists/tree/master/Passwords)

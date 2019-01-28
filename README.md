@@ -42,6 +42,12 @@ The purpose of these cheatsheets are to aid penetration testers/CTF participants
 Wordlists of all kind
 
 
+[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+-----------------------
+A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
+
+
 
 
 Esoteric Languages
@@ -75,6 +81,7 @@ Esoteric Languages
 	A graphical programming language... looks like large 8-bit pixels in a variety of colors. Can be interpreted with the tool [`npiet`][npiet]
 
 ![https://www.bertnase.de/npiet/hi.png](https://www.bertnase.de/npiet/hi.png)
+
 
 * [Ook!](http://esolangs.org/wiki/ook!)
 
@@ -919,6 +926,7 @@ A list of interesting things I can use one day or have already used in the past.
 * [payloads](extra/payloads.md)
 * [pentest-tools](extra/pentest-tools.md)
 * [powershell-tools](extra/powershell-tools.md)
+* [pwn-tips](extra/pwn-tips.md)
 * [re-tools](extra/re-tools.md)
 * [router-tools](extra/router-tools.md)
 * [sdr-tools](extra/sdr-tools.md)
