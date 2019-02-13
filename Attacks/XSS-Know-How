@@ -1,0 +1,16 @@
+Autor: @Pimps
+
+Pra entender o potencial de um ataque de xss vc precisa entender melhor alguns conceitos básicos sobre aplicações web primeiro. 
+Dentre eles: como cookies e session id funcionam, códigos javascript client side, DOM, CORS, Same Origin Policy, etc... 
+Em essência, como ja explicaram, xss eh um ataque web que vai atacar um usuário da aplicação, e não a aplicação em si... 
+Na maioria dos casos, o objetivo eh forçar o navegador do usuário a executar alguma operação maliciosa. 
+Porém, existem casos de xss onde vc pode atacar aplicativos desktop também. 
+Nos casos de ataques xss em aplicativos desktop, como são geralmente desenvolvidos com Electron.JS ou algum framework 
+que possui Node.JS integration, eh possível executar código na maquina do cliente tornando um ataque de xss em um 
+Remote Code Execution. Voltando ao caso de aplicações web, um payload javascript comum utilizado nesses ataques 
+eh a captura dos cookies do navegador do usuário (presentes no elemento document.cookie) e enviar essas 
+informações pra algum servidor sobre controle de um atacante. Com essas informações, ele pode configurar 
+esses dados no proprio navegador e executar um ataque conhecido como “session hijack” e acessar a aplicação 
+como o usuário sem precisar fornecer a senha do usuário. Outro ataque possível seria um javascript que 
+“ao clicar no botão login, capturar o conteudo do input usuario e senha e enviar pra um servidor de controle do atacante”... 
+porém esses são somente exemplos básicos do potencial de um ataque xss... em casos avançados, pode-se fazer muito mais coisas.
