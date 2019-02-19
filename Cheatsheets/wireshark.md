@@ -1,6 +1,8 @@
-#To start capturing packets on a specified interface
-Capture>"Interfaces ...">[Select interface(s)]>Start
+**To start capturing packets on a specified interface**(
 
+```
+Capture>"Interfaces ...">[Select interface(s)]>Start
+```
 
 # To stop a running capture to analyze the packets
 Capture>Stop
