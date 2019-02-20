@@ -6,7 +6,7 @@
 **Bypassing file content restrictions:**
 ```
 in some cases you can do a crlf injection via filename
-**x.png%22%0d%0a%0d%0a%0d%0a<script>alert(1)</script>**
+x.png%22%0d%0a%0d%0a%0d%0a<script>alert(1)</script>
 
 this will cause Content-Disposition to throw its content into the file
 ```
