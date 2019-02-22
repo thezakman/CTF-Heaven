@@ -68,6 +68,7 @@ emacs - http://www.gnu.org/software/emacs/<br>
 
 # Crypto:<br>
 Cryptool - https://www.cryptool.org/<br>
+Quipqiup - https://deets.feedreader.com/quipqiup.com/<br>
 hashpump - https://github.com/bwall/HashPump<br>
 Sage - http://www.sagemath.org/<br>
 John the Ripper - http://www.openwall.com/john/<br>
