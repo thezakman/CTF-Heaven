@@ -1,8 +1,8 @@
 Need to escalate privileges without fancy tools?
 ====
-
+-----
 1) open CMD and type
-----
+-----
 
 ```
 findstr /si password *.txt
