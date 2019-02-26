@@ -1,11 +1,11 @@
 Need to escalate privileges without fancy tools?
 ====
 
-1) open CMD
-----------
+1) open CMD and type
+----
 
 ```
-2) findstr /si password *.txt
+findstr /si password *.txt
 findstr /si password *.xml
 dir /s *pass* == *cred* == *vnc* == *.config*
 findstr /spin "password" *.*
