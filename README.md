@@ -957,4 +957,8 @@ A list of interesting things I can use one day or have already used in the past.
 [Join the comminity](https://ctf-br.org/)
 
 <b>Feel free to fork/star and help it get better :thumbsup: <b>
+	
+
+![alt tag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
 
