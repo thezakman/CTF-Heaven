@@ -1,6 +1,9 @@
 # XSS
 
 - XSS tricks:
+```
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
+```
 
 
 **Bypassing file content restrictions:**
