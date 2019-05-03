@@ -15,6 +15,12 @@ this will cause Content-Disposition to throw its content into the file
 ```
 
 
+**Nice DOM XSS:**
+```
+','z':alert(1)//
+http://example.com/','z':alert(1)//
+
+```
 
 
 
