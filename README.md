@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/ctf-br/branding)<br>
+
 ![Version 0.04](https://img.shields.io/badge/Version-0.04-green.svg)
 [![Twitter](https://img.shields.io/badge/Twitter-%40TheZakMan-blue.svg)](https://www.twitter.com/thezakman)
 
@@ -954,7 +956,7 @@ A list of interesting things I can use one day or have already used in the past.
 
 ![img/dna_codes.png](https://ctf-br.org/wp-content/uploads/2014/12/icon_256x2561.png)
 
-[Join the comminity](https://ctf-br.org/)
+[Join the community](https://ctf-br.org/)
 
 <b>Feel free to fork/star and help it get better :thumbsup: <b>
 	
