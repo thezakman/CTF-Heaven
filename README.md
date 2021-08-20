@@ -33,6 +33,12 @@ This is an introduction to some of the basics of each category. It was designed 
 [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
 ---------------
 
+
+[SecLists](https://github.com/danielmiessler/SecLists)
+-----------------------
+SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
+
 [Security Cheatsheets](https://github.com/thezakman/CTF-Heaven/tree/master/Cheatsheets)
 -----------------------
 The purpose of these cheatsheets are to aid penetration testers/CTF participants/security enthusiasts in remembering commands that are useful, but not frequently used.
