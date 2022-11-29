@@ -187,6 +187,10 @@ robots:
 shodan:
     Integration with Shodan: http://www.shodanhq.com/
     This plugin requires a working Internet connection to run.
+    
+criminalip:
+    Criminal IP is a specialized Cyber Threat Intelligence (CTI) search engine that allows users to search for various security-related information such as malicious IP addresses, domains, banners, etc. It can be widely integrated
+    https://www.criminalip.io/
 
 spider:
     Web spider plugin.
