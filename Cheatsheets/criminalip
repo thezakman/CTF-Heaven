@@ -1,0 +1,39 @@
+tag:"cobalt strike"
+cve_id:CVE-2022-3303
+after: 2022-03-18
+before: 2022-03-18
+-country: KR
+scanner_port: 3389
+scanner_raw: cookie
+cloud_provider: azure
+hostname: ec2
+ip: 95.130.170.1/24
+port:22
+product: OpenSSH
+product_version: "7.9p1"
+service:SSH
+tag: http
+ssl_expired: true
+ssl_issuer_organization: let's encrypt
+ssl_subject_common_name: fortiGate
+ssl_subject_country: KR
+ssl_subject_organization: fortinet
+cve_id: CVE-2019-12521
+malcode_md5: fa259ed427a84bacc0011fc04f380427
+snort_classification: ciarmy
+snort_rule: traffic
+favicon: 72b36155
+html_meta_author: Splunk
+html_meta_description: create-react-app
+html_meta_keyword: System
+html_meta_title: Marketplace
+prefix: Finger
+status_code: 200
+tech_stack: jQuery
+title: RouterOS
+as_name:Amazon.com,Inc.
+city: central
+country:KR
+isp: microsoft
+org: microsoft
+"default password"
