@@ -1,5 +1,6 @@
 Autor: @Pimps
 
+PT-BR:
 Pra entender o potencial de um ataque de xss vc precisa entender melhor alguns conceitos básicos sobre aplicações web primeiro. 
 Dentre eles: como cookies e session id funcionam, códigos javascript client side, DOM, CORS, Same Origin Policy, etc... 
 Em essência, como ja explicaram, xss eh um ataque web que vai atacar um usuário da aplicação, e não a aplicação em si... 
@@ -14,3 +15,20 @@ esses dados no proprio navegador e executar um ataque conhecido como “session 
 como o usuário sem precisar fornecer a senha do usuário. Outro ataque possível seria um javascript que 
 “ao clicar no botão login, capturar o conteudo do input usuario e senha e enviar pra um servidor de controle do atacante”... 
 porém esses são somente exemplos básicos do potencial de um ataque xss... em casos avançados, pode-se fazer muito mais coisas.
+
+
+ENG:
+To understand the potential of an XSS attack, you need to better understand some basic concepts about web applications first.
+Among them: how cookies and session ID work, client-side JavaScript codes, DOM, CORS, Same Origin Policy, etc...
+In essence, as already explained, XSS is a web attack that will attack a user of the application, and not the application itself...
+In most cases, the objective is to force the user's browser to perform some malicious operation.
+However, there are cases of XSS where you can attack desktop applications as well.
+In cases of XSS attacks on desktop applications, as they are usually developed with Electron.JS or some framework
+that has Node.JS integration, it is possible to execute code on the client's machine, turning an XSS attack
+into a Remote Code Execution. Returning to the case of web applications, a common javascript payload used in these
+attacks is to capture the user's browser cookies (present in the document.cookie element) and send this information
+to a server under the attacker's control. With this information, the attacker can configure this data in the browser itself and execute
+an attack known as "session hijack" and access the application as the user without having to provide the user's password.
+Another possible attack would be a javascript that "when clicking the login button, captures the content of the username and password
+input and sends it to a server under the attacker's control"... but these are just basic examples of the potential of an XSS attack... 
+in advanced cases, much more can be done.
